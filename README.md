@@ -24,7 +24,7 @@ As a DSA Trainer and Moderator at [iCodeGuru](https://icodeguru.weebly.com/), I 
   </tr>
   </tr>  
         <tr>
-    <td align="center"><b>01</b></td>
+    <td align="center"><b>03</b></td>
     <td align="center"><b>Time Complexity</b></td>
     <td align="center"><a href="https://fb.watch/t2qLIxPBJi/">Understanding Time Complexity</td>    
     <td align="center" ><a href="https://docs.google.com/presentation/d/1lbdsmzZt7GVYIdXUUsQrEjJSfJ8P8rte/edit?usp=sharing&ouid=100650279262950057994&rtpof=true&sd=true">Slides </td>
