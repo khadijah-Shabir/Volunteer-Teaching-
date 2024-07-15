@@ -32,19 +32,19 @@ As a DSA Trainer and Moderator at [iCodeGuru](https://icodeguru.weebly.com/), I 
    <tr>
             <td align="center"><b>04</b></td>
             <td align="center"><b>Introducton to Linked List</b></td>
-            <td align="center"><a href="https://fb.watch/td0pkRkH8c/">Video 2</a></td>
+            <td align="center"><a href="https://fb.watch/td0pkRkH8c/">Tutorial link</a></td>
             <td align="center"><a href="https://docs.google.com/presentation/d/1zU0PpUIQQOncVMGFCh_8ucLVcMPYJJHkzXBrvsOLis0/edit#slide=id.p">Slides</a></td>
         </tr>
         <tr>
             <td align="center"><b>05</b></td>
             <td align="center"><b>Practical Implentation of LinkedList in Python</b></td>
-            <td align="center"><a href="https://www.facebook.com/share/v/tbg1mmLDcozMASc2/?mibextid=oFDknk">Video 3</a></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/tbg1mmLDcozMASc2/?mibextid=oFDknk">Tutorial Link</a></td>
             <td align="center"><a href="https://docs.google.com/presentation/d/1zU0PpUIQQOncVMGFCh_8ucLVcMPYJJHkzXBrvsOLis0/edit#slide=id.p">Slides</a></td>
         </tr>
          <tr>
             <td align="center"><b>06</b></td>
             <td align="center"><b>Introduction to Stack Data Structure</b></td>
-            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/423203834038497">Video 1</a></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/423203834038497">Tutorial Link</a></td>
             <td align="center"><a href="https://docs.google.com/presentation/d/1f8kwr101Vgs7SapNbOy10SsczMfTmn_X/edit#slide=id.p1">Slides</a></td>
         </tr>
 
