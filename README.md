@@ -1,5 +1,5 @@
 # Volunteer_Teaching
-As a DSA Trainer and Moderator at [iCodeGuru](https://icodeguru.weebly.com/), I am dedicated to imparting technical knowledge, enhancing students' problem-solving skills. This repository contains a collection of lectures I have delivered in various sessions, focusing primarily on Data Structures and Algorithms concepts.
+As a DSA Trainer and Moderator at [iCodeGuru](https://icodeguru.weebly.com/), I am dedicated to sharing technical knowledge, enhancing students' problem-solving skills. This repository contains a collection of lectures I have delivered in various sessions, focusing primarily on Data Structures and Algorithms concepts.
 
 # DSA Lectures
 <table>
